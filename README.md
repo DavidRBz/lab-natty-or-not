@@ -25,6 +25,6 @@ O apelido dessa montanha é "The Kiler Mountain" (A montanha assassina), devido 
 ![Imagem 1](https://raw.githubusercontent.com/DavidRBz/lab-natty-or-not/main/AI%20Generated%20Image%202.jpeg)
 
 ### Imagem original para comparação
-![Imagem original](https://pt.wikipedia.org/wiki/Nanga_Parbat#/media/Ficheiro:Nanga_Parbat_The_Killer_Mountain.jpg)
+![Imagem original](https://raw.githubusercontent.com/DavidRBz/lab-natty-or-not/main/Original%20Nanga%20Parbat%20image.webp)
 
 #### [Link para o prompt](https://www.bing.com/images/create/a-snow-capped-mountain-range-reflected-in-a-still2c/1-66a4336b26d24c76a6a1e07125d40815?id=ynbO3s%2bI3Eu0x9oIjBJ2Iw%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.pIifyQ3HssQj26wNYPK_&FORM=GCRIDP&mode=overlay) no Copilot Designer
