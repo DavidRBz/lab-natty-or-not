@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O gentil abraço da montanha assassina
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Sempre gostei de montanhas, mas uma em especifíco está no topo da minha lista. A montanha em questão é Nanga Parbat, que faz parte dos Himalaias e localizada no norte do Paquistão, sendo a 9ª montanha mais alta do mundo, com 8125m de altura. 
+
+Como irão ver nas imagens, o que se destaca nela é a presença de uma linda pastagem verde nas proximidades, que faz contraste com a gigantesca e branca montanha ao fundo. O local é de díficil acesso, sendo uma aventura por si só, sem incluir qualquer tentativa de subir a montanha. 
+
+O apelido dessa montanha é "The Kiler Mountain" (A montanha assassina), devido a alta taxa de mortalidade nas tentativas de subida.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Gemini 1.5 Flash ([Google AI Studio](https://aistudio.google.com/)) - Para obter uma descrição detalhada da imagem original
+- DALL·E 3 ([Copilot Designer](https://copilot.microsoft.com/images/create)) - Para a geração das imagens
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Baixei uma foto da montanha pelo [Wikipedia](https://pt.wikipedia.org/wiki/Nanga_Parbat#/media/Ficheiro:Nanga_Parbat_The_Killer_Mountain.jpg)
+- Usei o Google AI Studio para obter uma descrição detalhada da imagem
+- Fiz algumas modificações no prompt e coloquei no Copilot Designer
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+### Imagem 1
+![Imagem 1](https://raw.githubusercontent.com/DavidRBz/lab-natty-or-not/main/AI%20Generated%20Image%201.jpeg)
 
-### Exemplos e Insigths
+### Imagem 2
+![Imagem 1](https://raw.githubusercontent.com/DavidRBz/lab-natty-or-not/main/AI%20Generated%20Image%202.jpeg)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+### Imagem original para comparação
+![Imagem original](https://pt.wikipedia.org/wiki/Nanga_Parbat#/media/Ficheiro:Nanga_Parbat_The_Killer_Mountain.jpg)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+#### [Link para o prompt](https://www.bing.com/images/create/a-snow-capped-mountain-range-reflected-in-a-still2c/1-66a4336b26d24c76a6a1e07125d40815?id=ynbO3s%2bI3Eu0x9oIjBJ2Iw%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.pIifyQ3HssQj26wNYPK_&FORM=GCRIDP&mode=overlay) no Copilot Designer
